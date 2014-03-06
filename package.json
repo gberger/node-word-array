@@ -1,0 +1,24 @@
+{
+  "name": "node-word-array",
+  "version": "0.1.0",
+  "description": "Similar to Ruby's %w. Create word arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gberger/node-word-array.git"
+  },
+  "keywords": [
+    "word",
+    "array",
+    "ruby"
+  ],
+  "author": "Guilherme Berger <guilherme.berger@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gberger/node-word-array/issues"
+  },
+  "homepage": "https://github.com/gberger/node-word-array"
+}
