@@ -1,5 +1,5 @@
 {
-  "name": "node-word-array",
+  "name": "word-array",
   "version": "0.1.0",
   "description": "Similar to Ruby's %w. Create word arrays.",
   "main": "index.js",

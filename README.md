@@ -15,3 +15,17 @@ Or in Coffee:
 
     w 'one two three'
     # => ['one', 'two', 'three']
+
+
+Installation
+------------ 
+
+    npm install word-array
+
+
+Usage
+-----
+
+    w = require('word-array')
+    w('one two three')
+    // => ['one', 'two', 'three']
